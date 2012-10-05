@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta name="viewport" content="initial-scale=1.0, user-scalable=no" />
+    <style type="text/css">
+      html { height: 100% }
+      body { height: 100%; margin: 0; padding: 0 }
+      #map_canvas { height: 100% }
+    </style>
+    <script type="text/javascript"
+      src="http://maps.googleapis.com/maps/api/js?key=AIzaSyDSWW0dixq_hSr1mLpweNvTVnQsw_Fg1nE&sensor=true">
+    </script>
+
+<--
+        3627 N. Southport;
+        3420 and 3241 N. Lincoln;
+        817 W. Belmont;
+        2934 N. Broadway;
+        1005 W. Wrightwood;
+        1030 W. Fullerton;
+        2156 N. Stockton Drive;
+        1262 and 1218 N. Milwaukee;
+        2135 W. Division;
+        1155 N. Oakley;
+        219 and 1615 W. Chicago;
+        149 N. Ashland;
+        831 N. Wells;
+        33 and 930 N. LaSalle;
+        450 N. Cityfront Plaza Drive;
+        828 N. Larrabee;
+        30 E. Lake;
+        125 S. Clark
+        437 S. Columbus.
+-->
+    <script type="text/javascript">
+      function initialize() {
+
+        var mapOptions = {
+          center: new google.maps.LatLng(41.89, -87.63),
+          zoom: 12,
+          mapTypeId: google.maps.MapTypeId.ROADMAP
+        };
+        var map = new google.maps.Map(document.getElementById("map_canvas"),
+            mapOptions);
+      }
+    </script>
+  </head>
+  <body onload="initialize()">
+    <div id="map_canvas" style="width:100%; height:100%"></div>
+  </body>
+</html>

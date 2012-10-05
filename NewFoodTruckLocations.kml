@@ -1,0 +1,352 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>New Food Truck Locations</name>
+  <description><![CDATA[Designation of the new mobile food vehicle stands around Chicago.]]></description>
+  <Style id="style18">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style11">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style14">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style20">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style8">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style13">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style22">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style3">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style17">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style6">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style9">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style5">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style1">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style23">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style10">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style12">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style21">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style7">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style15">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style16">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style19">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style2">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style4">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Placemark>
+    <name>3627 N. Southport Ave.</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style18</styleUrl>
+    <Point>
+      <coordinates>-87.664032,41.947521,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>3420 N. Lincoln Ave.</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style11</styleUrl>
+    <Point>
+      <coordinates>-87.671242,41.943291,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>3241 N. Lincoln Ave.</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style14</styleUrl>
+    <Point>
+      <coordinates>-87.669350,41.940578,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>817 W. Belmont Ave.</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style20</styleUrl>
+    <Point>
+      <coordinates>-87.650085,41.939957,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>2934 N. Broadway St.</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style8</styleUrl>
+    <Point>
+      <coordinates>-87.644272,41.935951,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>1005 W. Wrightwood Ave.</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style13</styleUrl>
+    <Point>
+      <coordinates>-87.653923,41.928989,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>1030 W. Fullerton Ave.</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style22</styleUrl>
+    <Point>
+      <coordinates>-87.654373,41.925350,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>2156 N. Stockton Dr.</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style3</styleUrl>
+    <Point>
+      <coordinates>-87.635666,41.921165,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>1262 N. Milwaukee Ave.</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style17</styleUrl>
+    <Point>
+      <coordinates>-87.668625,41.904770,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>1218 N. Milwaukee Ave.</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style6</styleUrl>
+    <Point>
+      <coordinates>-87.667313,41.903873,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>2135 W. Division St.</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style9</styleUrl>
+    <Point>
+      <coordinates>-87.681175,41.903046,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>1155 N. Oakley Blvd.</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style5</styleUrl>
+    <Point>
+      <coordinates>-87.684570,41.902420,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>1615 W. Chicago Ave.</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Point>
+      <coordinates>-87.667976,41.896030,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>149 N. Ashland Ave.</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style23</styleUrl>
+    <Point>
+      <coordinates>-87.666756,41.884163,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>831 N. Wells St.</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style10</styleUrl>
+    <Point>
+      <coordinates>-87.634247,41.897423,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>930 N. LaSalle Dr.</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style12</styleUrl>
+    <Point>
+      <coordinates>-87.631653,41.871574,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>219 W. Chicago Ave.</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style21</styleUrl>
+    <Point>
+      <coordinates>-87.634979,41.896446,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>450 N. Cityfront Plaza Dr.</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style7</styleUrl>
+    <Point>
+      <coordinates>-87.622063,41.889660,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>828 N. Larrabee St.</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style15</styleUrl>
+    <Point>
+      <coordinates>-87.642982,41.897373,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>30 E. Lake St.</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style16</styleUrl>
+    <Point>
+      <coordinates>-87.626419,41.885826,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>125 S. Clark St.</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style19</styleUrl>
+    <Point>
+      <coordinates>-87.630814,41.879627,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>437 S. Columbus Dr.</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style2</styleUrl>
+    <Point>
+      <coordinates>-87.620583,41.875664,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>33 N. LaSalle St.</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style4</styleUrl>
+    <Point>
+      <coordinates>-87.632057,41.881863,0.000000</coordinates>
+    </Point>
+  </Placemark>
+</Document>
+</kml>
