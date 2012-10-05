@@ -42,7 +42,7 @@
         };
         var map = new google.maps.Map(document.getElementById("map_canvas"),
             mapOptions);
-        var truck_locations = new google.maps.KmlLayer('/truck_locations.kml');
+        var truck_locations = new google.maps.KmlLayer('http://chicagofoodtrucks.shima.su/truck_locations.kml');
         truck_locations.setMap(map);
 
       }
