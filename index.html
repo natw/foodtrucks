@@ -11,7 +11,7 @@
       src="http://maps.googleapis.com/maps/api/js?key=AIzaSyDSWW0dixq_hSr1mLpweNvTVnQsw_Fg1nE&sensor=true">
     </script>
 
-<--
+<!--
         3627 N. Southport;
         3420 and 3241 N. Lincoln;
         817 W. Belmont;
@@ -37,11 +37,14 @@
 
         var mapOptions = {
           center: new google.maps.LatLng(41.89, -87.63),
-          zoom: 12,
+          zoom: 7,
           mapTypeId: google.maps.MapTypeId.ROADMAP
         };
         var map = new google.maps.Map(document.getElementById("map_canvas"),
             mapOptions);
+        var truck_locations = new google.maps.KmlLayer('truck_locations.kml');
+        truck_locations.setMap(map);
+
       }
     </script>
   </head>
